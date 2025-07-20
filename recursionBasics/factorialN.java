@@ -3,6 +3,29 @@ package recursionBasics;
 import java.util.*;
 
 /*
+Given an integer n, return the factorial of n.
+
+
+
+Factorial of a non-negative integer, is the multiplication of all integers smaller than or equal to n (use 64-bits to return answer).
+
+
+Examples:
+(1)
+Input : n = 3
+Output : 6
+Explanation : Factorial = 1 * 2 * 3 => 6
+(2)
+Input : n = 5
+Output : 120
+Explanation : Factorial = 1 * 2 * 3 * 4 * 5 => 120
+(3)
+Input : n = 4
+Output:
+24
+
+Constraints:
+0 <= n <= 15
 
  */
 

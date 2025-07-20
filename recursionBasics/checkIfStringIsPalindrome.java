@@ -25,7 +25,7 @@ Output:
 false
 
 Constraints:
-1 <= s.length <= 103
+1 <= s.length <= 10^3
 s consist of only uppercase and lowercase English characters.
 
  */
